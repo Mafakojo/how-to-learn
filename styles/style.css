@@ -3,6 +3,7 @@
   outline-style: solid;
   outline-color: red;
 }
+
 .page {
   min-width: 1100px;
   /* мы ещё не умеем делать мобильную версию сайта, */
@@ -86,16 +87,36 @@
   margin-right: 0;
   margin-top: 80px;
 }
+
 .description{
   width: 80%;
   min-width: 784px;
-  margin: 100px 0 100px 0;
-  display: flex;
-  justify-content: center;
+  margin: auto;
+  }
+
+.two-columns{
+display: flex;
+justify-content: space-between;
+position: relative;
+margin: 100px 0 100px 0;
+}
+
+.two-columns__main-text{
+width: 80%;
+min-width: 784px;
+padding: 0;
+margin: 0;
 }
 
 .two-columns__paragraph{
   font-size: 18px;
   line-height: 1.2;
   font-weight: normal;
+  margin: 0;
+}
+
+.two-columns__brief{
+width: 175px;
+color: #2f80ed;
+margin: 0;
 }
