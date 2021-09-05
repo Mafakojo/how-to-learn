@@ -55,7 +55,7 @@
 }
 .header__link{
   text-decoration: none;
-  color: #2f80ed;;
+  color: #2f80ed;
 }
 
 .header__main-illustration{
@@ -155,6 +155,7 @@ margin: 0;
   width: 250px;
   margin-top: 60px;
   text-align: center;
+  list-style: none;
 }
 
 .table__heading{
@@ -212,7 +213,7 @@ margin: 0;
   line-height: 51px;
   font-weight: normal;
   text-decoration: none;
-  color: #2f80ed;;
+  color: #2f80ed;
 }
 /* Темный блок с цифрами*/
 .kaufman{
@@ -316,12 +317,10 @@ text-align: start;
   line-height: 30px;
   font-size: 18px;
   font-weight: bold;
-}
-
-.footer__column-heading{
   color: white;
   margin-bottom: 20px;
 }
+
 .footer__column-links{
   color: white;
   margin: 0;
