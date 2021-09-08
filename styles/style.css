@@ -214,7 +214,7 @@
   font-size: 36px;
   font-weight: normal;
   padding-top: 70px;
-  margin: 0%;
+  margin: 0;
 }
 
 .feynman__link {
@@ -324,8 +324,7 @@
   line-height: 25px;
   font-size: 18px;
   font-weight: normal;
-  margin: 0;
-}
+  }
 
 .footer__column-heading {
   text-align: center;
