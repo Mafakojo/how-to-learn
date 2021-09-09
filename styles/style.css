@@ -302,6 +302,7 @@
   display: flex;
   justify-content: space-between;
   width: 90%;
+  min-height: 250px;
   margin: auto;
   padding: 60px 0 40px 0;
 }
