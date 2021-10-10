@@ -302,9 +302,6 @@
   font-size: 18px;
   font-weight: normal;
 }
-.footer__social-icon {
-  margin-right: 10px;
-}
 .footer__column-link {
   color: white;
   text-decoration: none;
@@ -312,4 +309,6 @@
   font-size: 18px;
   font-weight: 400;
 }
-
+.footer__social-icon {
+  margin-right: 10px;
+}
