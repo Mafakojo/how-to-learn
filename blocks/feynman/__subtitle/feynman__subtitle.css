@@ -1,5 +1,4 @@
 .feynman__subtitle {
-    position: relative;
     display: flex;
     justify-content: center;
     text-align: center;
@@ -7,4 +6,5 @@
     font-size: 36px;
     font-weight: normal;
     padding-top: 70px;
+    margin-top: 0;
   }

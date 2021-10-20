@@ -5,7 +5,7 @@
     line-height: 1.15;
     font-size: 120px;
     font-weight: bold;
-    min-width: 648px;
+    width: 648px;
     padding-top: 100px;
-    margin: 0;
+    margin: auto;
   }

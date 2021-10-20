@@ -7,8 +7,8 @@
 
 
 .two-columns {
+    width: 80%;
     display: flex;
     justify-content: space-between;
-    position: relative;
-    margin: 100px 0 100px 0;
+    margin: 0 auto;
   }
