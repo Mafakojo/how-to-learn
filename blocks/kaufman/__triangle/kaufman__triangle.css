@@ -6,4 +6,5 @@
     min-height: 877px;
     background-image: url(../../../images/kaufman-triangle.svg);
     background-size: contain;
+    z-index: -1;
   }
